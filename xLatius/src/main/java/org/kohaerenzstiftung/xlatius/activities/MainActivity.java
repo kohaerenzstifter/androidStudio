@@ -1,18 +1,19 @@
 package org.kohaerenzstiftung.xlatius.activities;
 
 
-import org.kohaerenzstiftung.MenuActivity;
-import org.kohaerenzstiftung.xlatius.R;
-import org.kohaerenzstiftung.xlatius.misc.Helper;
-import org.kohaerenzstiftung.xlatius.views.AutoCompleteTextView;
-
 import android.os.Bundle;
 import android.text.Editable;
 import android.text.TextWatcher;
+import android.view.ContextMenu;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
 import android.widget.Toast;
+
+import org.kohaerenzstiftung.MenuActivity;
+import org.kohaerenzstiftung.xlatius.R;
+import org.kohaerenzstiftung.xlatius.misc.Helper;
+import org.kohaerenzstiftung.xlatius.views.AutoCompleteTextView;
 
 public class MainActivity extends MenuActivity {
 
@@ -151,6 +152,11 @@ public class MainActivity extends MenuActivity {
 	@Override
 	protected void registerForContextMenus() {
 		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	protected void prepareContextMenu(ContextMenu menu, int position) {
 
 	}
 

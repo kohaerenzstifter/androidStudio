@@ -1,6 +1,11 @@
 package org.kohaerenzstiftung.xlatius.activities;
 
-import java.util.List;
+import android.content.Context;
+import android.os.Bundle;
+import android.view.ContextMenu;
+import android.view.View;
+import android.view.ViewGroup.LayoutParams;
+import android.widget.Button;
 
 import org.kohaerenzstiftung.MenuActivity;
 import org.kohaerenzstiftung.xlatius.R;
@@ -10,11 +15,7 @@ import org.kohaerenzstiftung.xlatius.grammar.syntaxtree.SymbolOperator;
 import org.kohaerenzstiftung.xlatius.grammar.syntaxtree.SyntaxTreeTraverser;
 import org.kohaerenzstiftung.xlatius.misc.Helper;
 
-import android.content.Context;
-import android.os.Bundle;
-import android.view.View;
-import android.view.ViewGroup.LayoutParams;
-import android.widget.Button;
+import java.util.List;
 
 public class SyntaxActivity extends MenuActivity {
 
@@ -107,6 +108,11 @@ public class SyntaxActivity extends MenuActivity {
 	@Override
 	protected void registerForContextMenus() {
 		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	protected void prepareContextMenu(ContextMenu menu, int position) {
 
 	}
 
