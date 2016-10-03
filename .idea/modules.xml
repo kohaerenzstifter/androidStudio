@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Kohaerenzstiftung.iml" filepath="$PROJECT_DIR$/Kohaerenzstiftung.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/workspaces/AndroidStudioProjects/Kohaerenzstiftung/Kohaerenzstiftung.iml" filepath="$USER_HOME$/Desktop/workspaces/AndroidStudioProjects/Kohaerenzstiftung/Kohaerenzstiftung.iml" />
       <module fileurl="file://$USER_HOME$/Desktop/workspaces/AndroidStudioProjects/Kohaerenzstiftung/andTroin/andTroin.iml" filepath="$USER_HOME$/Desktop/workspaces/AndroidStudioProjects/Kohaerenzstiftung/andTroin/andTroin.iml" />
       <module fileurl="file://$USER_HOME$/Desktop/workspaces/AndroidStudioProjects/Kohaerenzstiftung/gLObjectsTest/gLObjectsTest.iml" filepath="$USER_HOME$/Desktop/workspaces/AndroidStudioProjects/Kohaerenzstiftung/gLObjectsTest/gLObjectsTest.iml" />
       <module fileurl="file://$USER_HOME$/Desktop/workspaces/AndroidStudioProjects/Kohaerenzstiftung/gLObjectsTest2/gLObjectsTest2.iml" filepath="$USER_HOME$/Desktop/workspaces/AndroidStudioProjects/Kohaerenzstiftung/gLObjectsTest2/gLObjectsTest2.iml" />
