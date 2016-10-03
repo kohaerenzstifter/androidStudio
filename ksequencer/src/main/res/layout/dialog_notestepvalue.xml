@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RadioGroup
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:orientation="horizontal"
+        android:layout_weight="1"
+        android:id="@+id/radiogroup_note">
+
+        <RadioButton
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:text="c"
+            android:id="@+id/radiobutton_c"
+            android:layout_weight="1" />
+        <RadioButton
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:text="d"
+            android:id="@+id/radiobutton_d"
+            android:layout_weight="1" />
+        <RadioButton
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:text="e"
+            android:id="@+id/radiobutton_e"
+            android:layout_weight="1" />
+        <RadioButton
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:text="f"
+            android:id="@+id/radiobutton_f"
+            android:layout_weight="1" />
+        <RadioButton
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:text="g"
+            android:id="@+id/radiobutton_g"
+            android:layout_weight="1" />
+        <RadioButton
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:text="a"
+            android:id="@+id/radiobutton_a"
+            android:layout_weight="1" />
+        <RadioButton
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:text="b"
+            android:id="@+id/radiobutton_b"
+            android:layout_weight="1" />
+    </RadioGroup>
+
+    <CheckBox
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:text="@string/sharp"
+        android:id="@+id/checkbox_sharp"
+        android:layout_weight="1" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:inputType="numberSigned"
+        android:ems="10"
+        android:id="@+id/edittext_octave"
+        android:layout_weight="1" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:text="@string/ok"
+        android:id="@+id/button_ok"
+        android:layout_weight="1" />
+
+</LinearLayout>

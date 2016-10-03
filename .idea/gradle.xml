@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="$APPLICATION_HOME_DIR$/gradle/gradle-2.14.1" />
+        <option name="gradleJvm" value="1.7" />
+        <option name="modules">
+          <set>
+            <option value="$USER_HOME$/Desktop/workspaces/AndroidStudioProjects/Kohaerenzstiftung" />
+            <option value="$USER_HOME$/Desktop/workspaces/AndroidStudioProjects/Kohaerenzstiftung/andTroin" />
+            <option value="$USER_HOME$/Desktop/workspaces/AndroidStudioProjects/Kohaerenzstiftung/gLObjectsTest" />
+            <option value="$USER_HOME$/Desktop/workspaces/AndroidStudioProjects/Kohaerenzstiftung/gLObjectsTest2" />
+            <option value="$USER_HOME$/Desktop/workspaces/AndroidStudioProjects/Kohaerenzstiftung/gLObjectsTest3" />
+            <option value="$USER_HOME$/Desktop/workspaces/AndroidStudioProjects/Kohaerenzstiftung/gLTest" />
+            <option value="$USER_HOME$/Desktop/workspaces/AndroidStudioProjects/Kohaerenzstiftung/gLTest2" />
+            <option value="$USER_HOME$/Desktop/workspaces/AndroidStudioProjects/Kohaerenzstiftung/gLTestGame" />
+            <option value="$USER_HOME$/Desktop/workspaces/AndroidStudioProjects/Kohaerenzstiftung/kohaerenzstiftung" />
+            <option value="$USER_HOME$/Desktop/workspaces/AndroidStudioProjects/Kohaerenzstiftung/ksequencer" />
+            <option value="$USER_HOME$/Desktop/workspaces/AndroidStudioProjects/Kohaerenzstiftung/mylibrary" />
+            <option value="$USER_HOME$/Desktop/workspaces/AndroidStudioProjects/Kohaerenzstiftung/rc" />
+            <option value="$USER_HOME$/Desktop/workspaces/AndroidStudioProjects/Kohaerenzstiftung/stupid" />
+            <option value="$USER_HOME$/Desktop/workspaces/AndroidStudioProjects/Kohaerenzstiftung/wWWidget" />
+            <option value="$USER_HOME$/Desktop/workspaces/AndroidStudioProjects/Kohaerenzstiftung/xLatius" />
+          </set>
+        </option>
+        <option name="myModules">
+          <set>
+            <option value="$USER_HOME$/Desktop/workspaces/AndroidStudioProjects/Kohaerenzstiftung" />
+            <option value="$USER_HOME$/Desktop/workspaces/AndroidStudioProjects/Kohaerenzstiftung/andTroin" />
+            <option value="$USER_HOME$/Desktop/workspaces/AndroidStudioProjects/Kohaerenzstiftung/gLObjectsTest" />
+            <option value="$USER_HOME$/Desktop/workspaces/AndroidStudioProjects/Kohaerenzstiftung/gLObjectsTest2" />
+            <option value="$USER_HOME$/Desktop/workspaces/AndroidStudioProjects/Kohaerenzstiftung/gLObjectsTest3" />
+            <option value="$USER_HOME$/Desktop/workspaces/AndroidStudioProjects/Kohaerenzstiftung/gLTest" />
+            <option value="$USER_HOME$/Desktop/workspaces/AndroidStudioProjects/Kohaerenzstiftung/gLTest2" />
+            <option value="$USER_HOME$/Desktop/workspaces/AndroidStudioProjects/Kohaerenzstiftung/gLTestGame" />
+            <option value="$USER_HOME$/Desktop/workspaces/AndroidStudioProjects/Kohaerenzstiftung/kohaerenzstiftung" />
+            <option value="$USER_HOME$/Desktop/workspaces/AndroidStudioProjects/Kohaerenzstiftung/ksequencer" />
+            <option value="$USER_HOME$/Desktop/workspaces/AndroidStudioProjects/Kohaerenzstiftung/mylibrary" />
+            <option value="$USER_HOME$/Desktop/workspaces/AndroidStudioProjects/Kohaerenzstiftung/rc" />
+            <option value="$USER_HOME$/Desktop/workspaces/AndroidStudioProjects/Kohaerenzstiftung/stupid" />
+            <option value="$USER_HOME$/Desktop/workspaces/AndroidStudioProjects/Kohaerenzstiftung/wWWidget" />
+            <option value="$USER_HOME$/Desktop/workspaces/AndroidStudioProjects/Kohaerenzstiftung/xLatius" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

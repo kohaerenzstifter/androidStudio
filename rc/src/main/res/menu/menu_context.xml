@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/menuitem_split_vertically" android:title="@string/split_vertically"></item>
+    <item android:id="@+id/menuitem_split_horizontally" android:title="@string/split_horizontally"></item>
+    <item android:id="@+id/menuitem_insert_button" android:title="@string/insert_button"></item>
+    
+
+</menu>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Kohaerenzstiftung.iml" filepath="$PROJECT_DIR$/Kohaerenzstiftung.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/workspaces/AndroidStudioProjects/Kohaerenzstiftung/andTroin/andTroin.iml" filepath="$USER_HOME$/Desktop/workspaces/AndroidStudioProjects/Kohaerenzstiftung/andTroin/andTroin.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/workspaces/AndroidStudioProjects/Kohaerenzstiftung/gLObjectsTest/gLObjectsTest.iml" filepath="$USER_HOME$/Desktop/workspaces/AndroidStudioProjects/Kohaerenzstiftung/gLObjectsTest/gLObjectsTest.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/workspaces/AndroidStudioProjects/Kohaerenzstiftung/gLObjectsTest2/gLObjectsTest2.iml" filepath="$USER_HOME$/Desktop/workspaces/AndroidStudioProjects/Kohaerenzstiftung/gLObjectsTest2/gLObjectsTest2.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/workspaces/AndroidStudioProjects/Kohaerenzstiftung/gLObjectsTest3/gLObjectsTest3.iml" filepath="$USER_HOME$/Desktop/workspaces/AndroidStudioProjects/Kohaerenzstiftung/gLObjectsTest3/gLObjectsTest3.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/workspaces/AndroidStudioProjects/Kohaerenzstiftung/gLTest/gLTest.iml" filepath="$USER_HOME$/Desktop/workspaces/AndroidStudioProjects/Kohaerenzstiftung/gLTest/gLTest.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/workspaces/AndroidStudioProjects/Kohaerenzstiftung/gLTest2/gLTest2.iml" filepath="$USER_HOME$/Desktop/workspaces/AndroidStudioProjects/Kohaerenzstiftung/gLTest2/gLTest2.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/workspaces/AndroidStudioProjects/Kohaerenzstiftung/gLTestGame/gLTestGame.iml" filepath="$USER_HOME$/Desktop/workspaces/AndroidStudioProjects/Kohaerenzstiftung/gLTestGame/gLTestGame.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/workspaces/AndroidStudioProjects/Kohaerenzstiftung/kohaerenzstiftung/kohaerenzstiftung.iml" filepath="$USER_HOME$/Desktop/workspaces/AndroidStudioProjects/Kohaerenzstiftung/kohaerenzstiftung/kohaerenzstiftung.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/workspaces/AndroidStudioProjects/Kohaerenzstiftung/ksequencer/ksequencer.iml" filepath="$USER_HOME$/Desktop/workspaces/AndroidStudioProjects/Kohaerenzstiftung/ksequencer/ksequencer.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/workspaces/AndroidStudioProjects/Kohaerenzstiftung/mylibrary/mylibrary.iml" filepath="$USER_HOME$/Desktop/workspaces/AndroidStudioProjects/Kohaerenzstiftung/mylibrary/mylibrary.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/workspaces/AndroidStudioProjects/Kohaerenzstiftung/rc/rc.iml" filepath="$USER_HOME$/Desktop/workspaces/AndroidStudioProjects/Kohaerenzstiftung/rc/rc.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/workspaces/AndroidStudioProjects/Kohaerenzstiftung/stupid/stupid.iml" filepath="$USER_HOME$/Desktop/workspaces/AndroidStudioProjects/Kohaerenzstiftung/stupid/stupid.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/workspaces/AndroidStudioProjects/Kohaerenzstiftung/wWWidget/wWWidget.iml" filepath="$USER_HOME$/Desktop/workspaces/AndroidStudioProjects/Kohaerenzstiftung/wWWidget/wWWidget.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/workspaces/AndroidStudioProjects/Kohaerenzstiftung/xLatius/xLatius.iml" filepath="$USER_HOME$/Desktop/workspaces/AndroidStudioProjects/Kohaerenzstiftung/xLatius/xLatius.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0px"
+        android:layout_weight="1"
+        android:orientation="horizontal" >
+
+        <EditText
+            android:id="@+id/edittext_text"
+            android:layout_width="0px"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:ems="10" >
+
+            <requestFocus />
+        </EditText>
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0px"
+        android:layout_weight="1"
+        android:orientation="horizontal" >
+
+        <CheckBox
+            android:id="@+id/checkbox_syscode1"
+        	android:layout_width="0px"
+        	android:layout_height="match_parent"
+        	android:layout_weight="1" />
+        <CheckBox
+            android:id="@+id/checkbox_syscode2"
+        	android:layout_width="0px"
+        	android:layout_height="match_parent"
+        	android:layout_weight="1" />
+        <CheckBox
+            android:id="@+id/checkbox_syscode3"
+        	android:layout_width="0px"
+        	android:layout_height="match_parent"
+        	android:layout_weight="1" />
+        <CheckBox
+            android:id="@+id/checkbox_syscode4"
+        	android:layout_width="0px"
+        	android:layout_height="match_parent"
+        	android:layout_weight="1" />
+        <CheckBox
+            android:id="@+id/checkbox_syscode5"
+        	android:layout_width="0px"
+        	android:layout_height="match_parent"
+        	android:layout_weight="1" />
+    </LinearLayout>
+    <RadioGroup
+        android:layout_width="match_parent"
+        android:layout_height="0px"
+        android:layout_weight="1"
+        android:orientation="horizontal" >
+
+     <RadioButton
+         android:id="@+id/radiobutton_socket1"
+         android:layout_width="0px"
+         android:layout_height="match_parent"
+         android:layout_weight="1"
+         android:checked="true" />
+
+     <RadioButton
+         android:id="@+id/radiobutton_socket2"
+    	android:layout_width="0px"
+    	android:layout_height="match_parent"
+    	android:layout_weight="1" />
+     <RadioButton
+         android:id="@+id/radiobutton_socket3"
+    	android:layout_width="0px"
+    	android:layout_height="match_parent"
+    	android:layout_weight="1" />
+     <RadioButton
+         android:id="@+id/radiobutton_socket4"
+    	android:layout_width="0px"
+    	android:layout_height="match_parent"
+    	android:layout_weight="1" />
+     <RadioButton
+         android:id="@+id/radiobutton_socket5"
+    	android:layout_width="0px"
+    	android:layout_height="match_parent"
+    	android:layout_weight="1" />
+    </RadioGroup>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0px"
+        android:layout_weight="1"
+        android:orientation="horizontal" >
+
+        <LinearLayout
+        	android:layout_width="0px"
+        	android:layout_height="match_parent"
+        	android:layout_weight="8" />
+
+        <CheckBox
+            android:id="@+id/checkbox_onOff"
+        	android:layout_width="0px"
+        	android:layout_height="match_parent"
+        	android:layout_weight="12" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0px"
+        android:layout_weight="1"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/button_ok"
+            android:layout_width="0px"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="@string/ok" />
+
+    </LinearLayout>
+
+</LinearLayout>

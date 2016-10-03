@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+	<item android:id="@+id/menuitem_set_server" android:title="@string/set_server"></item>
+	<item android:id="@+id/menuitem_import_settings" android:title="@string/import_settings"></item>
+	<item android:id="@+id/menuitem_export_settings" android:title="@string/export_settings"></item>
+	<item android:id="@+id/menuitem_reset" android:title="@string/reset"></item>
+	<item android:id="@+id/menuitem_save" android:title="@string/save"></item>
+</menu>

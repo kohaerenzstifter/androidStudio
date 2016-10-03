@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Remote</string>
+    <string name="set_server">Set server</string>
+    <string name="import_settings">Import settings</string>
+    <string name="export_settings">Export settings</string>
+    <string name="split_horizontally">Split horizontally</string>
+    <string name="split_vertically">Split vertically</string>
+    <string name="insert_button">Insert button</string>
+    <string name="edit_button">Edit</string>
+    <string name="radio">Radio</string>
+    <string name="infrared">Infrared</string>
+    <string name="ok">OK</string>
+    <string name="button_not_setup">Button not set up!</string>
+    <string name="reset">Reset</string>
+    <string name="save">Save</string>
+    <string name="nothing_to_save">Nothing to save!</string>
+    <string name="error_delete">Error while trying to delete file</string>
+    <string name="cancel">Cancel</string>
+	<string name="server_certificate">Server Certificate</string>
+	<string name="nothing_to_export">Nothing to export!</string>
+	<string name="send_to">Send config to ...</string>
+</resources>
