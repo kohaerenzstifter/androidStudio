@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
-        <option name="distributionType" value="LOCAL" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleHome" value="$APPLICATION_HOME_DIR$/gradle/gradle-2.14.1" />
-        <option name="gradleJvm" value="1.7" />
+        <option name="gradleJvm" value="11" />
         <option name="modules">
           <set>
-            <option value="$USER_HOME$/Desktop/workspaces/AndroidStudioProjects/Kohaerenzstiftung" />
-            <option value="$USER_HOME$/Desktop/workspaces/AndroidStudioProjects/Kohaerenzstiftung/andTroin" />
-            <option value="$USER_HOME$/Desktop/workspaces/AndroidStudioProjects/Kohaerenzstiftung/gLObjectsTest" />
-            <option value="$USER_HOME$/Desktop/workspaces/AndroidStudioProjects/Kohaerenzstiftung/gLObjectsTest2" />
-            <option value="$USER_HOME$/Desktop/workspaces/AndroidStudioProjects/Kohaerenzstiftung/gLObjectsTest3" />
-            <option value="$USER_HOME$/Desktop/workspaces/AndroidStudioProjects/Kohaerenzstiftung/gLTest" />
-            <option value="$USER_HOME$/Desktop/workspaces/AndroidStudioProjects/Kohaerenzstiftung/gLTest2" />
-            <option value="$USER_HOME$/Desktop/workspaces/AndroidStudioProjects/Kohaerenzstiftung/gLTestGame" />
-            <option value="$USER_HOME$/Desktop/workspaces/AndroidStudioProjects/Kohaerenzstiftung/kohaerenzstiftung" />
-            <option value="$USER_HOME$/Desktop/workspaces/AndroidStudioProjects/Kohaerenzstiftung/ksequencer" />
-            <option value="$USER_HOME$/Desktop/workspaces/AndroidStudioProjects/Kohaerenzstiftung/mylibrary" />
-            <option value="$USER_HOME$/Desktop/workspaces/AndroidStudioProjects/Kohaerenzstiftung/rc" />
-            <option value="$USER_HOME$/Desktop/workspaces/AndroidStudioProjects/Kohaerenzstiftung/stupid" />
-            <option value="$USER_HOME$/Desktop/workspaces/AndroidStudioProjects/Kohaerenzstiftung/wWWidget" />
-            <option value="$USER_HOME$/Desktop/workspaces/AndroidStudioProjects/Kohaerenzstiftung/xLatius" />
+            <option value="/share/androidStudio" />
+            <option value="/share/androidStudio/andTroin" />
+            <option value="/share/androidStudio/gLObjectsTest" />
+            <option value="/share/androidStudio/gLObjectsTest2" />
+            <option value="/share/androidStudio/gLObjectsTest3" />
+            <option value="/share/androidStudio/gLTest" />
+            <option value="/share/androidStudio/gLTest2" />
+            <option value="/share/androidStudio/gLTestGame" />
+            <option value="/share/androidStudio/kohaerenzstiftung" />
+            <option value="/share/androidStudio/ksequencer" />
+            <option value="/share/androidStudio/mylibrary" />
+            <option value="/share/androidStudio/rc" />
+            <option value="/share/androidStudio/stupid" />
+            <option value="/share/androidStudio/wWWidget" />
+            <option value="/share/androidStudio/xLatius" />
           </set>
         </option>
-        <option name="resolveModulePerSourceSet" value="false" />
       </GradleProjectSettings>
     </option>
   </component>

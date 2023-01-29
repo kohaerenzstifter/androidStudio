@@ -2,12 +2,11 @@ apply plugin: 'com.android.application'
 
 android {
     compileSdkVersion 22
-    buildToolsVersion "22.0.1"
 
     defaultConfig {
         applicationId "org.kohaerenzstiftung.rc"
         minSdkVersion 14
-        targetSdkVersion 21
+        targetSdkVersion 22
     }
 
     buildTypes {
@@ -19,7 +18,7 @@ android {
 }
 
 dependencies {
-    compile project(':kohaerenzstiftung')
-    compile 'com.android.support:support-v4:22.2.1'
-    compile 'com.android.support:appcompat-v7:19.1.0'
+    implementation project(':kohaerenzstiftung')
+    implementation 'com.android.support:support-v4:22.2.1'
+    implementation 'com.android.support:appcompat-v7:22.1.0'
 }

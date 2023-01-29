@@ -1364,6 +1364,39 @@ public class MainActivity extends org.kohaerenzstiftung.MenuActivity {
 				MainActivity.this.editButton((Button) mContextMenuView, false);
 			}
 		});
+		setContextItemExecutor(R.id.menuitem_set_server2, new ContextItemExecutor() {
+			@Override
+			public void execute(MenuItem item) {
+				MainActivity.this.setServer();
+
+			}
+		});
+		setContextItemExecutor(R.id.menuitem_import_settings2, new ContextItemExecutor() {
+			@Override
+			public void execute(MenuItem item) {
+				MainActivity.this.importSettings();
+
+			}
+		});
+		setContextItemExecutor(R.id.menuitem_export_settings2, new ContextItemExecutor() {
+			@Override
+			public void execute(MenuItem item) {
+				MainActivity.this.exportSettings();
+
+			}
+		});
+		setContextItemExecutor(R.id.menuitem_reset2, new ContextItemExecutor() {
+			@Override
+			public void execute(MenuItem item) {
+				MainActivity.this.reset();
+			}
+		});
+		setContextItemExecutor(R.id.menuitem_save2, new ContextItemExecutor() {
+			@Override
+			public void execute(MenuItem item) {
+				MainActivity.this.save();
+			}
+		});
 	}
 
 	protected void editButton(Button button, boolean infrared) {
